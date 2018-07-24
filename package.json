@@ -1,0 +1,24 @@
+{
+  "name": "node_first_steps",
+  "version": "1.0.0",
+  "main": "greet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mzwa1080/Node_basics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mzwa1080/Node_basics/issues"
+  },
+  "homepage": "https://github.com/Mzwa1080/Node_basics#readme",
+  "description": "",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "figlet": "^1.2.0"
+  }
+}
